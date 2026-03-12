@@ -33,9 +33,6 @@ async function runImport() {
             })
         })
     }
-   
-
-
 }
 
 runImport()
